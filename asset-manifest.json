@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/ReactJs-GroceryStore/static/css/main.ee86de5c.css",
+    "main.js": "/ReactJs-GroceryStore/static/js/main.927fc021.js",
+    "static/media/img4.png": "/ReactJs-GroceryStore/static/media/img4.3610f5f457fcb3b2711f.png",
+    "static/media/img2.png": "/ReactJs-GroceryStore/static/media/img2.94e49d8d613a535a4987.png",
+    "static/media/veg6.png": "/ReactJs-GroceryStore/static/media/veg6.c017e8bc522ffe0d8654.png",
+    "static/media/img3.png": "/ReactJs-GroceryStore/static/media/img3.8e638173087660ca594c.png",
+    "static/media/fruits1.png": "/ReactJs-GroceryStore/static/media/fruits1.69f6db79b09d5a7ff0a3.png",
+    "static/media/img1.png": "/ReactJs-GroceryStore/static/media/img1.612274337e2ebc6ae4f9.png",
+    "static/media/veg1.png": "/ReactJs-GroceryStore/static/media/veg1.b8f48e8e3a13604e478e.png",
+    "static/media/veg8.png": "/ReactJs-GroceryStore/static/media/veg8.f5351d7b8fd0bb82abbd.png",
+    "static/media/veg7.png": "/ReactJs-GroceryStore/static/media/veg7.e40b2ad7f6a09157d588.png",
+    "static/media/veg3.png": "/ReactJs-GroceryStore/static/media/veg3.1fbd9fcf909355bfb2a8.png",
+    "static/media/img5.png": "/ReactJs-GroceryStore/static/media/img5.8ae1199288452efea8eb.png",
+    "static/media/logo.png": "/ReactJs-GroceryStore/static/media/logo.e0b380d016755b590d66.png",
+    "static/media/veg4.png": "/ReactJs-GroceryStore/static/media/veg4.90179c0ef15c4f96f834.png",
+    "static/media/veg2.png": "/ReactJs-GroceryStore/static/media/veg2.c8a72a68b5822b770147.png",
+    "static/media/meat.png": "/ReactJs-GroceryStore/static/media/meat.a254ad0f2d6045c478c2.png",
+    "static/media/fruits2.png": "/ReactJs-GroceryStore/static/media/fruits2.2b15740bce19ac378c41.png",
+    "static/media/juice.png": "/ReactJs-GroceryStore/static/media/juice.23775d70f943cfa6b055.png",
+    "static/media/ice-cream.png": "/ReactJs-GroceryStore/static/media/ice-cream.a103df614ba7fc7c7ae0.png",
+    "static/media/filter.png": "/ReactJs-GroceryStore/static/media/filter.3fd98919c33d0819a0c1.png",
+    "static/media/veg5.png": "/ReactJs-GroceryStore/static/media/veg5.9b8c6f5439653c2cdadf.png",
+    "static/media/personal.png": "/ReactJs-GroceryStore/static/media/personal.e06b4df8c9b5368cbbe2.png",
+    "static/media/bread1.png": "/ReactJs-GroceryStore/static/media/bread1.8b6122c3f2e721c8747c.png",
+    "static/media/spices.png": "/ReactJs-GroceryStore/static/media/spices.aa8b0d1fbd175a898e4f.png",
+    "static/media/slick.svg": "/ReactJs-GroceryStore/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ReactJs-GroceryStore/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ReactJs-GroceryStore/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ReactJs-GroceryStore/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ReactJs-GroceryStore/index.html",
+    "main.ee86de5c.css.map": "/ReactJs-GroceryStore/static/css/main.ee86de5c.css.map",
+    "main.927fc021.js.map": "/ReactJs-GroceryStore/static/js/main.927fc021.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee86de5c.css",
+    "static/js/main.927fc021.js"
+  ]
+}
