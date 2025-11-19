@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactJs-GroceryStore/static/css/main.ee86de5c.css",
-    "main.js": "/ReactJs-GroceryStore/static/js/main.927fc021.js",
+    "main.js": "/ReactJs-GroceryStore/static/js/main.34cc3def.js",
     "static/media/img4.png": "/ReactJs-GroceryStore/static/media/img4.3610f5f457fcb3b2711f.png",
     "static/media/img2.png": "/ReactJs-GroceryStore/static/media/img2.94e49d8d613a535a4987.png",
     "static/media/veg6.png": "/ReactJs-GroceryStore/static/media/veg6.c017e8bc522ffe0d8654.png",
@@ -31,10 +31,10 @@
     "static/media/slick.woff": "/ReactJs-GroceryStore/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/ReactJs-GroceryStore/index.html",
     "main.ee86de5c.css.map": "/ReactJs-GroceryStore/static/css/main.ee86de5c.css.map",
-    "main.927fc021.js.map": "/ReactJs-GroceryStore/static/js/main.927fc021.js.map"
+    "main.34cc3def.js.map": "/ReactJs-GroceryStore/static/js/main.34cc3def.js.map"
   },
   "entrypoints": [
     "static/css/main.ee86de5c.css",
-    "static/js/main.927fc021.js"
+    "static/js/main.34cc3def.js"
   ]
 }
