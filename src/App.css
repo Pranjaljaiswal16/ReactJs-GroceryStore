@@ -1,0 +1,42 @@
+:root {
+  --col1: #7ed957;
+  --col2: gray;
+  --col3: #cecece;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Popping", sans-serif;
+  font-weight: 400;
+}
+
+#dropdown-basic {
+  outline: none;
+  border: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.goback {
+  background-color: var(--col1);
+  color: white;
+  border: none;
+  outline: none;
+  padding: 10px 25px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 10px 0px;
+  display: flex;
+  position: absolute;
+  top: 1px;
+  left: 10px;
+  min-width: 100px;
+}
+
+.goback svg {
+  margin-right: 5px;
+  width: 20px;
+  height: 20px;
+}
